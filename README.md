@@ -15,32 +15,44 @@ The dataset used comes from the Nutrition, Physical Activity, and Obesity sectio
 
 ## Question 1: Explanatory
 **Question:**
+How does household income level relate to obesity prevalence in 2023? How has this trend changed over time? 
 
 **Importance:**
+This question is important because it allows one to see how obesity correlates with different income levels and how that relationship changes over time. One can then identify the proportion of incomes that need the most initiatives and resources and budget those resources accordingly. This helps policy-makers to understand the degree of which incomes are contributing to obesity levels and put policies in place based on the degree of which income is a factor. The second part of the question is important because the trends of obesity levels based on income would help the ability to predict the next levels of obesity and anticipate that change. It can also lead them to conclude what types of events cause certain spikes in obesity levels at certain incomes so they can plan initiatives accordingly if events in a future year mimic those that were in a previous year.
 
 ![plot](./Question1.1.png)
 
+
 **Graph 1 Description and Results:**
+The first graph illustrates the percentage of the population that is obese in each income group. Obesity is the most prevalent in the less than $15,000 a year individuals with an obesity percentage of 35.688% and declines as the individual makes more money. We analyze these rates over time in the next visualization.
 
 ![plot](./Question1.2.png)
 
+
 **Graph 2 Description and Results:**
+To see the trends of the results up until the present year, we graphed these obesity percentages of each income group over time. This would further the findings of the last problem by solidifying the results as a trend over 12 years and show how this relationship evolved over a timeline. While the hierarchy of income to obesity stays relatively constant, certain spikes can be observed, such as the $75,000+ group spiking significantly and aligning more with the other groups in 2020 most likely due to the pandemic. In addition, it is shown that obesity percentages in all groups have consistently trended upwards. This could allow those using the data to predict that obesity will continue to increase and put plans in place with that in mind. The obesity percentages shown in the previous graph are given the context of being the closest the percentages have been in the past 12 years. Therefore, the strategy at which this data is addressed can be more accurate within the context by for example addressing the $75,000+ group with more separation due to their history and perhaps predicting a downward trend in that group.
 
 **Analysis and Helpfulness of Results:**
 
 
 ## Question 2: Descriptive
 **Question:**
+What are the states in the U.S. that have the highest level of obesity to date? How do race & ethnicity contribute to obesity in the top 5 states with the highest obesity in 2023? 
 
 **Importance:**
+This question is important because it analyzes how location and race/ethnicity are correlated with obesity rates in the continental U.S. This can help the government make decisions on who and where to target health programs towards. With concise data and visualizations, it is easier to ensure health programs are creating tangible results and lowering the obesity rates across America.
 
 ![plot](./Question2.1.png)
 
+
 **Graph 1 Description and Results:**
+
 
 ![plot](./Question2.2.png)
 
+
 **Graph 2 Description and Results:**
+
 
 **Analysis and Helpfulness of Results:**
 
