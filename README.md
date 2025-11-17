@@ -55,6 +55,26 @@ This graph depicts the obesity rates in 2023 in the states with the top 5 highes
 **Analysis and Helpfulness of Results:**
 As the top 5 highest obesity rates are all in the southeastern part of the United States, it can be inferred that living in this area is correlated with a higher chance of being obese. Therefore, extra resources should go towards creating and promoting health programs in the southeast. For example, informing people on how to live a healthier lifestyle and the risks of obesity, donating healthy foods to these areas, and encouraging people to be more physically active. Among the states with the highest obesity rates, Non-Hispanic Black people and people of 2 or more races have the highest obesity rates. This could be correlated with these minority groups generally living in low-income areas with less access to healthy foods. These visualizations enable law-makers to focus on people who need the most funding for health programs, which will cause a greater decrease to obesity rates in America than untargeted programs would.
 
+## Honors Question 3: Predictive
+**Question:**
+How have national obesity and overweight rates changed over time, and what does the annual rate of change suggest about future trends in the United States?
+
+**Importance:**
+Understanding long-term national weight-classification trends provides insights for doctors and policymakers to create solutions. A predictive perspective is important for anticipating future health issues and ensuring preparedness. This also serves as feedback on past programs. By quantifying the annual rate of change, the direction and magnitude of future trends can be estimated.
+
+![plot](./Question3.1.png)
+
+**Graph 1 Description and Results:**
+This graph shows that from 2011 to 2023, the national obesity rate increased steadily while the overweight classification declined. Despite opposing trends, the overweight rate remained higher than the obesity rate throughout the entire period, and the trendlines suggest this was also true prior to 2011. The obesity trendline indicates an average annual increase of 0.15 percentage points, while the overweight trendline shows an average annual decrease of 0.03 percentage points. When continued beyond 2023, these trends suggest the line would likely have crossed in 2024 if the patterns had held.
+
+![plot](./Question3.2.png)
+
+**Graph 2 Description and Results:**
+This graph focuses on the most recent years (2021-2023), during which the pattern shifts noticeably. Although overweight classification remains higher, its predicted trendline slope becomes slightly positive at +0.01 percentage points per year, indicating minimal growth. The obesity trendline flattens to an increase of +0.04 percentage points per year, reflecting slower growth compared to the long-term trend. These post-Covid results suggest that while obesity has risen over the long run, recent annual changes in both obesity and overweight rates have been very gradual.
+
+**Analysis and Helpfulness of Results:**
+Overall, these results show that obesity and overweight classifications are moving in opposite long-term directions, with obesity gradually increasing and overweight slowly declining. However, the short-term trends since 2021 show only minimal year-to-year movement. The post-Covid world is very different than before, and while long-term trends are important, the recent ones often reveal more of the truth. The analysis is useful because it provides a clearer picture of how national weight-related health outcomes are evolving, helping policymakers anticipate future conditions and plan accordingly.
+
 ## Manipulations Applied:
 No direct data manipulations were performed. The dataset is already standardized and represents population-level estimates by location and time according to the subsets of stratifications and questions. Additionally, it was already properly formatted with data values representing percentages. The only adjustments made were basic filtering to isolate specific measures in order to answer the relevant questions and better display the information.
 
